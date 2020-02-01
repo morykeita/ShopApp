@@ -1,4 +1,4 @@
 # Shop App
 
-A practice flutter mobile application.
+A sample flutter mobile application.
 
