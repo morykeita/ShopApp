@@ -1,6 +1,6 @@
 # my_shop_app
 
-A new Flutter application.
+A practice flutter mobile application.
 
 ## Getting Started
 
