@@ -1,4 +1,4 @@
-# my_shop_app
+# Shop App
 
 A practice flutter mobile application.
 
